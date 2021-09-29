@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ChatApp": {}
+      },
+      "function": {
+        "ChatAppPostConfirmation": {
+          "deploymentBucketName": "amplify-chatapp-staging-154543-deployment",
+          "s3Key": "amplify-builds/ChatAppPostConfirmation-57584d6c684434546345-build.zip"
+        }
       }
     }
   }
